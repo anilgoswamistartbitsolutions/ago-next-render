@@ -1,0 +1,27 @@
+{
+  "name": "ago_next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next  dev -p 3001",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^8.1.0",
+    "bootstrap": "^5.3.3",
+    "dotenv": "^16.4.5",
+    "next": "14.2.5",
+    "qs": "^6.12.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-select": "^5.8.0",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}

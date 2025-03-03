@@ -1,0 +1,67 @@
+.input-form-group {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.input-form-group input,
+select {
+  border-radius: 30px !important;
+  height: 3rem !important;
+  padding-left: 1.2rem !important;
+  padding-right: 1.2rem !important;
+}
+
+.input-form-group .form-control {
+
+  font-weight: normal;
+  color: white;
+  border-color: rgba(255, 255, 255, 0);
+  background: rgba(255, 255, 255, 0.12);
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.input-form-group .form-control::placeholder {
+  color: white;
+  font-family: 'CommonGround', sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+
+}
+
+.input-form-group .error-message {
+  font-weight: 300;
+  /* color: rgb(220, 53, 69); */
+  color: white;
+  padding-left: 15px;
+}
+
+.input-has-error .form-control {
+  border-color: rgb(220, 53, 69);
+}
+
+.input-has-error.react-dropdown>div {
+  border-radius: 30px;
+  border: 1px solid rgb(220, 53, 69);
+}
+
+.input-form-group .form-control:focus {
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.09);
+}
+
+.input-form-group .form-control option {
+  font-size: 20px;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Black_Italic.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Bold_Italic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_DemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_DemiBold_Italic.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_ExtraBlack.woff2') format('woff2');
+    font-weight: 950;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_ExtraBlack_Italic.woff2') format('woff2');
+    font-weight: 950;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_ExtraBold_Italic.woff2') format('woff2');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_ExtraLight_Italic.woff2') format('woff2');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Light_Italic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Medium_Italic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Normal_Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommonGround';
+    src: url('/fonts/CommonGround WOFF2 3-300/CommonGround_Thin_Italic.woff2') format('woff2');
+    font-weight: 100;
+    font-style: italic;
+}

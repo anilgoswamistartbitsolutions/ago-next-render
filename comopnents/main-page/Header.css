@@ -1,0 +1,17 @@
+.default-header {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  z-index: 99;
+  width: 100%;
+  padding: 0 2rem;
+}
+
+@media (max-width: 768px) {
+  .default-header {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  background: black;
+
+  }
+}
